@@ -1,0 +1,8 @@
+export { default as Featured } from './Featured/Featured';
+export { default as FeaturedProperties } from './FeaturedProperties/FeaturedProperties';
+export { default as Footer } from './Footer/Footer';
+export { default as Header } from './Header/Header';
+export { default as Maillist } from './Maillist/Maillist';
+export { default as Navbar } from './Navbar/Navbar';
+export { default as PropertyList } from './PropertyList/PropertyList';
+export { default as SearchItem } from './SearchItem/SearchItem';

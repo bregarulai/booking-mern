@@ -4,6 +4,16 @@
 @import './styles/base/base';
 @import './styles//base/typography';
 @import './styles/app';
+
+@import './components/Featured/featured';
+@import './components/FeaturedProperties/featuredProperties';
+@import './components//Footer/footer';
+@import './components//Header/header';
+@import './components/Maillist/maillist';
+@import './components/Navbar/navbar';
+@import './components//PropertyList/propertyList';
+@import './components/SearchItem/searchItem';
+
 @import './pages/Home/home';
 @import './pages/Hotel/hotel';
 @import './pages/Hotels/hotels';
