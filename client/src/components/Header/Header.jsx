@@ -17,7 +17,7 @@ const Header = ({ type }) => {
         }
       >
         <div className='header__list'>
-          <div className='header__item'>
+          <div className='header__item header__item--active'>
             <FontAwesomeIcon icon={faBed} />
             <span>Stays</span>
           </div>
